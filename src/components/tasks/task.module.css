@@ -1,0 +1,38 @@
+.task{
+    position: relative;
+    display: grid;
+    top: 3rem;
+    left: -3rem;
+  
+}
+.header{
+    height: 4rem;
+    background: #1b1a1a;
+}
+.tasklist{
+    position: relative;
+    display: flex;
+    top: 0rem;
+    left: 20px;
+    color: rgb(45, 150, 219);
+    padding: 0 150px;
+    
+}
+.tasklist span{
+    color: antiquewhite;
+    background: #2b2929;
+    display: flex;
+    position: relative;
+    left: 10px;
+    border-radius: 20px;
+    padding: 0 5px;
+    justify-content: center;
+}
+.textpurple{
+    color: rgb(147, 32, 170);
+}
+.list{
+    display: grid;
+    margin: 10px;
+    top: 2rem;
+}
